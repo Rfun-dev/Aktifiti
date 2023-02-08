@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aktifiti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_homepage">Atur hari produktifmu</string>
+    <string name="desc_homepage">Yuk  belajar management waktu dengan kami, agar bisa sukses dalam kehidupan</string>
+    <string name="title_add">Erfan Ferdianto</string>
+    <string name="desc_add">Cek kegiatan hari ini kamu apa aja sih,jangan sampai terlwat ya</string>
+    <string name="date">Rabu, 2 Januari 2023</string>
+    <string name="list_pengguna">List Pengguna</string>
+    <string name="list_kegiatan">List Kegiatan</string>
+    <string name="jumlah_kegiatan">Jumlah Kegiatan %1$d</string>
+    <string name="kegiatan">Sampai di lokasi shooting</string>
+    <string name="waktu_pengkondisian">%1$s</string>
+    <string name="waktu">%1$s - %2$s</string>
+    <string name="nama">Nama</string>
+    <string name="submit">Submit</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="empty">Harap diisi</string>
+    <string name="nama_kegiatan">kegiatan</string>
+</resources>
